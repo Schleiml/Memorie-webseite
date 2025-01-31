@@ -1,4 +1,4 @@
-#Karten 
+.Karten 
 {
     background-color: #1A2D42; /* Green */
     border: none;
@@ -14,7 +14,7 @@
     cursor: pointer;
 }
   
-#Karten:hover {
+.Karten:hover {
     background-color: #93afcf;
     color: white;
 }
